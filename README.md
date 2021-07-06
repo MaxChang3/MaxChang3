@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Max, the undergraduate major in philosophy in a garbage university in China. 
+I am Max, the undergraduate major in philosophy in China. 
 
 I love programing since I was in primary, now I am trying to be admitted to the master of CS/SE. 
 
