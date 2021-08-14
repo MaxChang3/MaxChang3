@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxChang3&layout=compact&hide=scss,html,ejs,nunjucks,css,batchfile&langs_count=4" >
+<img align="right" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxChang3&layout=compact&hide=scss,html,ejs,nunjucks,css,batchfile&langs_count=4" >
 I am Max, an undergraduate student major in philosophy in China. 
 
 I love programing since I was in primary, now I am trying to be admitted to the master of CS/SE. 
