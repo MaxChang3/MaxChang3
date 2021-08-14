@@ -1,7 +1,7 @@
 ### Hi there 👋
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxChang3&layout=compact&hide=scss,html,ejs,nunjucks,css,batchfile&langs_count=4" >
 <br/>
-<img align="right" width="30%"  src="https://github-readme-stats.vercel.app/api?username=MaxChang3" >
+<img align="right" width="40%"  src="https://github-readme-stats.vercel.app/api?username=MaxChang3" >
 
 I am Max, an undergraduate student major in philosophy in China. 
 
