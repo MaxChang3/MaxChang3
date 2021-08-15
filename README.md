@@ -15,7 +15,7 @@ Outside of programming：
 
 🖥️ I love games especially the pixel style like *Celeste*.
 
-🖥️ And some independent games "small work" like *Hollow Knight*.
+🖥️ And independent games like *Hollow Knight*.
 
 *El Psy Kongroo*
 
