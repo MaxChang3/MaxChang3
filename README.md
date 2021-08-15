@@ -11,14 +11,7 @@
 
 Outside of programming：
 
-📺 I loving animes like `Steins;Gate` / `Re:Zero` / `NO GAME NO LIFE`.
-
-🖥️ I love games especially the pixel style like *Celeste*.
-
-🖥️ And independent games like *Hollow Knight*.
+🖥️  I loving animes, and games like *Celeste* (pixel game kksk) and *Hollow Knight*.
 
 *El Psy Kongroo*
 
-****
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=MaxChang3)](https://github.com/ryo-ma/github-profile-trophy)
