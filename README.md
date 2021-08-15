@@ -13,5 +13,5 @@ Outside of programming：
 
 🖥️  I loving animes, and games like *Celeste* (pixel game kksk) and *Hollow Knight*.
 
-*El Psy Kongroo*
+*El · Psy · Kongroo*
 
