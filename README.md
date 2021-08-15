@@ -3,7 +3,7 @@
 
  <img align="right" width="50%"  src="https://github-readme-stats.vercel.app/api?username=MaxChang3" >
 
-🏫 An undergraduate student major in philosophy in China. 
+🏫 An undergraduate student major in philosophy. 
 
 📋 I'm currently trying to be admitted to the master of CS/SE.
 
