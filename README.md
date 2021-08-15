@@ -11,7 +11,7 @@
 
 Outside of programming：
 
-🖥️  I loving animes, and games like *Celeste* (pixel game kksk) and *Hollow Knight*.
+🖥️  I loving animes, and games like *Celeste* (pixel games kksk) and *Hollow Knight*.
 
 *El · Psy · Kongroo*
 
