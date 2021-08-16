@@ -7,11 +7,9 @@
 
 📋 I'm currently trying to be admitted to the master of CS/SE.
 
-⌨️ I currently using `python` and `javascript`. :)
+⌨️ I'm currently using `python` and `javascript`. :)
 
-Outside of programming：
-
-🖥️  I loving animes, and games like *Celeste* (pixel games kksk) and *Hollow Knight*.
+🖥️  Outside of programming, I loving animes, and games like *Celeste* (pixel games kksk) and *Hollow Knight*.
 
 *El · Psy · Kongroo*
 
