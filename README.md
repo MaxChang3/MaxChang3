@@ -9,7 +9,7 @@
 
 ⌨️ I'm currently using `python` and `javascript`. :)
 
-🖥️  Outside of programming, I love animes, and games like *Celeste* (pixel games kksk) and *Hollow Knight*.
+🎮  Outside of programming, I love animes, and games like *Celeste* (pixel games kksk) and *Hollow Knight*.
 
 *El · Psy · Kongroo*
 
